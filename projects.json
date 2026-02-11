@@ -62,4 +62,11 @@
     "year": "2025_WS",
     "status": 1
   },
+  {
+    "title": "Splat!",
+    "folder": "Splat!_build_WS2025",
+    "author": "Simon Oberhumer",
+    "year": "2025_WS",
+    "status": 0
+  },
 ]
